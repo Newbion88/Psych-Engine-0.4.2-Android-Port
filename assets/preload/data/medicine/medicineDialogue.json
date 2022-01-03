@@ -1,0 +1,115 @@
+[{
+	"playMusic":"LunchboxHospital"
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "Alright..."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "So from what you're telling me, some symptoms are still present..."
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "But overall I don't think we need to change anything."
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "As for your condition, you did say that your thoughts were... fuzzy, correct?"
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Yeah. Sort of like... I don't know, really."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Like they were in a haze or something."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "It's sort of hard to explain, if I'm being honest."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "Well, that is to be expected."
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "We still need to make sure that it isn't anything too major, so just to be safe, let's do a few cognitive exercises."
+},{
+	"character": [
+		"bf-hospital",
+		6,
+		"r"
+	],
+	"text": "...cognitive exercises?"
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "Like what, math?"
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "Nonono, not math. That would be cruel."
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "Don't worry, it's nothing too hard. I'm just going to say a few words and phrases, and I want you to repeat them back to me."
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "Sound good?"
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Yup, I can do it."
+},{
+	"character": [
+		"senpai",
+		5,
+		"l"
+	],
+	"text": "Great! Let's get started."
+}]
