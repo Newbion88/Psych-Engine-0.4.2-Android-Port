@@ -1,0 +1,41 @@
+[
+	{
+		"playMusic":"LunchboxHospital"
+	},
+	{
+		"text":"Hey, thank you for waiting. Sorry about all of that.",
+		"character":["senpai", 3, "left"]
+	},
+	{
+		"text":"The staff around here have been LOADED with work...",
+		"character":["senpai", 2, "left"]
+	},
+	{
+		"text":"Well, anyways, let's get started, shall we? We only have a few things to check up on.",
+		"character":["senpai", 1, "left"]
+	},
+	{
+		"text":"First off, let's discuss how you're feeling. I understand that you've been through a lot this past month.",
+		"character":["senpai", 1, "left"]
+	},
+	{
+		"text":"Just want to make sure that the stress hasn't caused anything to get worse, and that all of your medications are working as intended.",
+		"character":["senpai", 3, "left"]
+	},
+	{
+		"text":"If you have any concerns, let me know. Think you can do that?",
+		"character":["senpai", 5, "left"]
+	},
+	{
+		"text":"Mhm, sounds good.",
+		"character":["bf-hospital", 3, "right"]
+	},
+	{
+		"text":"heh heh.",
+		"character":["lemon", 6, "left"]
+	},
+	{
+		"text":"Wonderful!",
+		"character":["senpai", 3, "left"]
+	}
+]
