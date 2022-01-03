@@ -1,0 +1,154 @@
+[
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "Ok, take off the blindfold!"
+	},
+	{
+		"character": [
+			"nar",
+			null,
+			"l"
+		],
+		"text": "BF takes off the blindfold"
+	},
+	{
+		"playMusic": "spookz",
+		"character": [
+			"skid",
+			18,
+			"l"
+		],
+		"text": "TA-DAH!",
+		"hscript":"leftJump"
+	},
+	{
+		"character": [
+			"bf",
+			8,
+			"r"
+		],
+		"text": "Woah... where are we?"
+	},
+	{
+		"character": [
+			"pump",
+			8,
+			"l"
+		],
+		"text": "We're at the old spooky abandoned mansion!",
+		"hscript":"leftJump"
+	},
+	{
+		"character": [
+			"bf",
+			5,
+			"r"
+		],
+		"text": "Abandoned mansion? I didn't know there was one around here."
+	},
+	{
+		"character": [
+			"skid",
+			5,
+			"l"
+		],
+		"text": "Yeah! Pump and I spend a lot of time here making music and stuff",
+		"hscript":"leftJump"
+	},
+	{
+		"character": [
+			"skid",
+			3,
+			"l"
+		],
+		"text": "Speaking of which, we wanted to record some music with you, Boyfriend?"
+	},
+	{
+		"character": [
+			"bf",
+			8,
+			"r"
+		],
+		"text": "Really? What kind?",
+		"hscript":"rightJump"
+	},
+	{
+		"character": [
+			"pump",
+			4,
+			"l"
+		],
+		"text": "Oh, just some little things that we've come up with."
+	},
+	{
+		"character": [
+			"skid",
+			8,
+			"l"
+		],
+		"text": "Little? Pump, we've put hours into this stuff-"
+	},
+	{
+		"character": [
+			"pump",
+			13,
+			"l"
+		],
+		"text": "SHH!!!",
+		"hscript":"leftJump"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "A-anyways, BF, we wanted you to like, cameo in our album that we're making."
+	},
+	{
+		"character": [
+			"pump",
+			8,
+			"l"
+		],
+		"text": "Would you be ok with that?"
+	},
+	{
+		"character": [
+			"bf",
+			16,
+			"r"
+		],
+		"text": "Hmm..."
+	},
+	{
+		"character": [
+			"bf",
+			16,
+			"r"
+		],
+		"text": "I guess I could do that..."
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "AWESOME!",
+		"hscript":"leftJump"
+	},
+	{
+		"character": [
+			"skid",
+			3,
+			"l"
+		],
+		"text": "OOH! Let's do my music first!",
+		"hscript":"leftJump"
+	}
+]
