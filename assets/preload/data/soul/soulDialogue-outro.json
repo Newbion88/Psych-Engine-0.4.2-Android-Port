@@ -1,0 +1,446 @@
+[{
+	"playMusic":"spookz",
+	"character": [
+		"pump",
+		11,
+		"l"
+	],
+	"text": "THAT WAS AWESOME!!!"
+},{
+	"character": [
+		"pump",
+		9,
+		"l"
+	],
+	"text": "Right, boyfriend?"
+},{
+	"character": [
+		"pump",
+		8,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"pump",
+		6,
+		"l"
+	],
+	"text": " uh, bf?"
+},{
+	"character": [
+		"bf-mad",
+		2,
+		"r"
+	],
+	"text": "(no no no no no no)"
+},{
+	"character": [
+		"bf-stressed",
+		1,
+		"r"
+	],
+	"text": "(no no no no no no no no no no no no no no no no no no no no nO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO)"
+},{
+	"character": [
+		"bf-stressed",
+		3,
+		"r"
+	],
+	"text": "(not now, not now, please not now-)"
+},{
+	"character": [
+		"skid",
+		8,
+		"l"
+	],
+	"text": "bro, are you good?"
+},{
+	"character": [
+		"bf-stressed",
+		4,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "Huh?"
+},{
+	"character": [
+		"bf",
+		13,
+		"r"
+	],
+	"text": "Y-yeah! I'm fine, yeah..."
+},{
+	"character": [
+		"pump",
+		18,
+		"l"
+	],
+	"text": "*CRASH*",
+	"muteVoice":true,
+	"textSpeed":0.001
+},{
+	"character": [
+		"skid",
+		17,
+		"l"
+	],
+	"text": "*loud Spanish obscenities*",
+	"textSpeed":0.001,
+	"muteVoice":true
+},{
+	"character": [
+		"pump",
+		7,
+		"l"
+	],
+	"text": "Crap, the rats are back again!",
+	"textSpeed":0.041
+},{
+	"character": [
+		"skid",
+		12,
+		"l"
+	],
+	"text": "BF, we're going to go check upstairs and see if anything broke"
+},{
+	"character": [
+		"nar",
+		null,
+		"l"
+	],
+	"text": "*scuffles*"
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "...",
+	"textSpeed":0.091
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "(Well, I guess it's just me for now.)",
+	"textSpeed":0.032
+},{
+	"character": [
+		"lemon",
+		1,
+		"l"
+	],
+	"text": "Hey, Boyfriend",
+	"textSpeed":0.001
+},{
+	"character": [
+		"lemon",
+		2,
+		"l"
+	],
+	"text": "Boyfriend.",
+	"textSpeed":0.001
+},{
+	"character": [
+		"lemon",
+		3,
+		"l"
+	],
+	"text": "...Boyfriend?",
+	"textSpeed":0.071
+},{
+	"character": [
+		"bf",
+		5,
+		"r"
+	],
+	"text": "What is it, man?"
+},{
+	"character": [
+		"lemon",
+		1,
+		"l"
+	],
+	"text": "Where was she?"
+},{
+	"character": [
+		"bf",
+		2,
+		"r"
+	],
+	"text": "Who?"
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "Girlfriend. She was gone for a while, but she came back just now. So, where was she?"
+},{
+	"character": [
+		"bf-mad",
+		4,
+		"r"
+	],
+	"text": "I-Is this some kind of joke?"
+},{
+	"character": [
+		"lemon",
+		6,
+		"l"
+	],
+	"text": "What- No, I'm being serious! Where was she?"
+},{
+	"character": [
+		"bf-sad",
+		7,
+		"r"
+	],
+	"text": "...Sh-She's gone, Monster. We've been over this"
+},{
+	"character": [
+		"lemon",
+		2,
+		"l"
+	],
+	"text": "... Boyfriend, why did you say that she's gone?"
+},{
+	"character": [
+		"bf-mad",
+		4,
+		"r"
+	],
+	"text": "Because she DIED, Monster."
+},{
+	"character": [
+		"bf-mad",
+		1,
+		"r"
+	],
+	"text": "She died, and I was there, and I couldn't-"
+},{
+	"character": [
+		"bf-sad",
+		6,
+		"r"
+	],
+	"text": "...I couldn't do anything."
+},{
+	"character": [
+		"bf-stressed",
+		7,
+		"r"
+	],
+	"text": "We were just driving over to the cornerstore to get some milk. It shouldn't have taken more than 10 minutes, max."
+},{
+	"character": [
+		"bf-mad",
+		1,
+		"r"
+	],
+	"text": "And...and it just happened, ok?"
+},{
+	"character": [
+		"lemon",
+		2,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"lemon",
+		6,
+		"l"
+	],
+	"text": "I don't get it."
+},{
+	"character": [
+		"bf",
+		2,
+		"r"
+	],
+	"text": "*sighs*"
+},{
+	"character": [
+		"bf-mad",
+		4,
+		"r"
+	],
+	"text": "Of course you don't. Typical."
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "Well, it looks like they're back."
+},{
+	"character": [
+		"pump",
+		9,
+		"l"
+	],
+	"text": "Well good news! The rats were just old man Miguel waking up"
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "Oh"
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf",
+		2,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf",
+		5,
+		"r"
+	],
+	"text": "wait"
+},{
+	"character": [
+		"pump",
+		8,
+		"l"
+	],
+	"text": "It's nothing too important!"
+},{
+	"character": [
+		"skid",
+		8,
+		"l"
+	],
+	"text": "...You ok Boyfriend? You look like you just saw a ghost."
+},{
+	"character": [
+		"bf",
+		2,
+		"r"
+	],
+	"text": "I'm fine guys, just..."
+},{
+	"character": [
+		"bf-sad",
+		7,
+		"r"
+	],
+	"text": "I'm just tired."
+},{
+	"character": [
+		"skid",
+		8,
+		"l"
+	],
+	"text": "Oh."
+},{
+	"character": [
+		"skid",
+		3,
+		"l"
+	],
+	"text": "...Well, if you're tired we should probably head back."
+},{
+	"character": [
+		"bf",
+		13,
+		"r"
+	],
+	"text": "It's fine guys, I can still-"
+},{
+	"character": [
+		"pump",
+		2,
+		"l"
+	],
+	"text": "NO BUTS."
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "...Huh?"
+},{
+	"character": [
+		"skid",
+		5,
+		"l"
+	],
+	"text": "Look, you just got out of the hospital today. We know you've gone through a lot, so just trust us and let's head back home."
+},{
+	"character": [
+		"pump",
+		8,
+		"l"
+	],
+	"text": "Also, Old Man Miguel kind of wants us out of h-"
+},{
+	"character": [
+		"pump",
+		1,
+		"l"
+	],
+	"text": "OW!"
+},{
+	"character": [
+		"skid",
+		7,
+		"l"
+	],
+	"text": "Shut up! I was trying to be cool, man!"
+},{
+	"character": [
+		"lemon",
+		1,
+		"l"
+	],
+	"text": "You should listen to them, Boyfriend."
+},{
+	"character": [
+		"lemon",
+		6,
+		"l"
+	],
+	"text": "I've met Miguel. He's really scary when he's angry."
+},{
+	"character": [
+		"bf",
+		4,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf",
+		9,
+		"r"
+	],
+	"text": "Alright, you win. Let's get going."
+}]

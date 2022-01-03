@@ -1,0 +1,816 @@
+[
+	{
+		"playMusic":"spookz"
+	},
+	{
+		"character": [
+			"skid",
+			16,
+			"l"
+		],
+		"text": "Hey hey hey!!! That sounded good amigo!"
+	},
+	{
+		"character": [
+			"bf",
+			9,
+			"r"
+		],
+		"text": "Heh heh... thanks Skid."
+	},
+	{
+		"character": [
+			"pump",
+			5,
+			"l"
+		],
+		"text": "*grumble grumble*",
+		"muteVoice":true
+	},
+	{
+		"character": [
+			"skid",
+			4,
+			"l"
+		],
+		"text": "...I think he's hungry"
+	},
+	{
+		"character": [
+			"bf",
+			10,
+			"r"
+		],
+		"text": "Well, why don't we order some food?"
+	},
+	{
+		"character": [
+			"bf",
+			11,
+			"r"
+		],
+		"text": "What do you guys want?"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "GHOST MCDONALD'S!"
+	},
+	{
+		"character": [
+			"skid",
+			18,
+			"l"
+		],
+		"text": "Ghost McDonald's would be awesome!"
+	},
+	{
+		"character": [
+			"bf",
+			9,
+			"r"
+		],
+		"text": "Ok, will do! Let me just order-"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "HELL YEAH! I'll have an order of nuggets!"
+	},
+	{
+		"character": [
+			"skid",
+			12,
+			"l"
+		],
+		"text": "Oooh, can I get a cookie?"
+	},
+	{
+		"character": [
+			"bf",
+			9,
+			"r"
+		],
+		"text": "Yeah yeah, of course-"
+	},
+	{
+		"character": [
+			"bf",
+			16,
+			"r"
+		],
+		"text": "... Wait, uh..."
+	},
+	{
+		"character": [
+			"bf",
+			12,
+			"r"
+		],
+		"text": "What's the address of this place?"
+	},
+	{
+		"character": [
+			"skid",
+			10,
+			"l"
+		],
+		"text": "I have no idea."
+	},
+	{
+		"character": [
+			"bf",
+			2,
+			"r"
+		],
+		"text": "..."
+	},
+	{
+		"character": [
+			"pump",
+			9,
+			"l"
+		],
+		"text": "Oh, I know where! It's (REDACTED)!"
+	},
+	{
+		"character": [
+			"bf",
+			9,
+			"r"
+		],
+		"text": "Of COURSE it's (REDACTED)! I should have known!"
+	},
+	{
+		"character": [
+			"bf",
+			11,
+			"r"
+		],
+		"text": "...Ok, it's ordered! Should be here in fifteen minutes or so-"
+	},
+	{
+		"character": [
+			"nar",
+			null,
+			"l"
+		],
+		"text": "DING DONG!"
+	},
+	{
+		"character": [
+			"skid",
+			3,
+			"l"
+		],
+		"text": "FOODS HERE!!!"
+	},
+	{
+		"character": [
+			"pump",
+			8,
+			"l"
+		],
+		"text": "I wonder what toy I got!!!"
+	},
+	{
+		"character": [
+			"bf",
+			8,
+			"r"
+		],
+		"text": "That was fast."
+	},
+	{
+		"character": [
+			"skid",
+			14,
+			"l"
+		],
+		"text": "I mean, it IS called fast food, after all-"
+	},
+	{
+		"character": [
+			"bf",
+			10,
+			"r"
+		],
+		"text": "Well, I'll go get the door for the delivery person."
+	},
+	{
+		"character": [
+			"nar",
+			null,
+			"l"
+		],
+		"text": " Boyfriend gets up and walks over to the door."
+	},
+	{
+		"character": [
+			"bf",
+			9,
+			"r"
+		],
+		"text": "Hey, thanks for the-"
+	},
+	{
+		"character": [
+			"bf",
+			2,
+			"r"
+		],
+		"text": "..."
+	},
+	{
+		"character": [
+			"bf",
+			5,
+			"r"
+		],
+		"text": "wait."
+	},
+	{
+		"character": [
+			"bf",
+			5,
+			"r"
+		],
+		"text": "you're."
+	},
+	{
+		"character": [
+			"bf",
+			8,
+			"r"
+		],
+		"text": "an actual ghost."
+	},
+	{
+		"character": [
+			"ghosty",
+			3,
+			"l"
+		],
+		"text": "OF COURSE I AM, MANNNNN!"
+	},
+	{
+		"character": [
+			"ghosty",
+			4,
+			"l"
+		],
+		"text": "The name's Ghosty, and I'm the best (and only!!!) Ghost employee at your local GHOST MCDONALD'SSSSS!!!"
+	},
+	{
+		"character": [
+			"pump",
+			9,
+			"l"
+		],
+		"text": "Oh hey Ghosty! What's Poppin?"
+	},
+	{
+		"character": [
+			"ghosty",
+			2,
+			"l"
+		],
+		"text": "PUMP MY DUDE!!!"
+	},
+	{
+		"character": [
+			"ghosty",
+			6,
+			"l"
+		],
+		"text": "Help an old friend out and let him know how AWESOME I AM!!!"
+	},
+	{
+		"character": [
+			"pump",
+			8,
+			"l"
+		],
+		"text": "He sucks ass."
+	},
+	{
+		"character": [
+			"ghosty",
+			1,
+			"l"
+		],
+		"text": "..."
+	},
+	{
+		"character": [
+			"ghosty",
+			5,
+			"l"
+		],
+		"text": "I have been betrayed."
+	},
+	{
+		"character": [
+			"ghosty",
+			5,
+			"l"
+		],
+		"text": "Bamboozled"
+	},
+	{
+		"character": [
+			"ghosty",
+			5,
+			"l"
+		],
+		"text": "Utterly Broken"
+	},
+	{
+		"character": [
+			"ghosty",
+			7,
+			"l"
+		],
+		"text": "How am I ever to recover what I have lost, pump?"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "You can give us our food!!!"
+	},
+	{
+		"character": [
+			"ghosty",
+			8,
+			"l"
+		],
+		"text": "Huh."
+	},
+	{
+		"character": [
+			"ghosty",
+			8,
+			"l"
+		],
+		"text": "I guess I can."
+	},
+	{
+		"character": [
+			"ghosty",
+			1,
+			"l"
+		],
+		"text": "..."
+	},
+	{
+		"character": [
+			"ghosty",
+			2,
+			"l"
+		],
+		"text": "Well HERE YOU GOOooooooo-!!!"
+	},
+	{
+		"character": [
+			"nar",
+			null,
+			"l"
+		],
+		"text": " He disappeared, leaving the food in his place."
+	},
+	{
+		"character": [
+			"pump",
+			10,
+			"l"
+		],
+		"text": "Ooooooh I got the lemonade man!!!"
+	},
+	{
+		"character": [
+			"bf",
+			5,
+			"r"
+		],
+		"text": "Does this happen a lot?"
+	},
+	{
+		"character": [
+			"bf",
+			4,
+			"r"
+		],
+		"text": "Wow."
+	},
+	{
+		"character": [
+			"nar",
+			null,
+			"l"
+		],
+		"text": "The three of them decided that it was time to eat."
+	},
+	{
+		"character": [
+			"bf",
+			1,
+			"r"
+		],
+		"text": "Holy crap, this burger is good-"
+	},
+	{
+		"character": [
+			"skid",
+			9,
+			"l"
+		],
+		"text": "I know, right?"
+	},
+	{
+		"character": [
+			"pump",
+			14,
+			"l"
+		],
+		"text": "Garcello tells me that they put children into the burgers, lol"
+	},
+	{
+		"character": [
+			"bf",
+			7,
+			"r"
+		],
+		"text": "...W-What?"
+	},
+	{
+		"character": [
+			"skid",
+			15,
+			"l"
+		],
+		"text": "PUMP, he's just messing with you."
+	},
+	{
+		"character": [
+			"pump",
+			12,
+			"r"
+		],
+		"text": "Hey, I'm still sticking with the nuggets JUST to be safe."
+	},
+	{
+		"character": [
+			"skid",
+			4,
+			"l"
+		],
+		"text": "..."
+	},
+	{
+		"character": [
+			"pump",
+			16,
+			"r"
+		],
+		"text": "Yo skid, listen to this."
+	},
+	{
+		"character": [
+			"skid",
+			1,
+			"l"
+		],
+		"text": " ?"
+	},
+	{
+		"character": [
+			"skid",
+			2,
+			"l"
+		],
+		"text": " ..."
+	},
+	{
+		"character": [
+			"skid",
+			11,
+			"l"
+		],
+		"text": " ...?"
+	},
+	{
+		"character": [
+			"skid",
+			4,
+			"l"
+		],
+		"text": " ...Pump, what the hell was that."
+	},
+	{
+		"character": [
+			"pump",
+			19,
+			"r"
+		],
+		"text": " Fart-Reverb vocoded to the US. National Anthem."
+	},
+	{
+		"character": [
+			"skid",
+			4,
+			"l"
+		],
+		"text": "...What the fuck man."
+	},
+	{
+		"character": [
+			"pump",
+			8,
+			"r"
+		],
+		"text": " Quality music, am I right?"
+	},
+	{
+		"character": [
+			"skid",
+			4,
+			"l"
+		],
+		"text": " ...Speaking of quality music, Boyfriend?"
+	},
+	{
+		"character": [
+			"bf",
+			7,
+			"r"
+		],
+		"text": "Yeah?"
+	},
+	{
+		"character": [
+			"skid",
+			9,
+			"l"
+		],
+		"text": "Weren't you working on an album of your own?"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "Yeah! I remember that! You showed us some of it last time we hung out!"
+	},
+	{
+		"character": [
+			"bf",
+			2,
+			"r"
+		],
+		"text": "I was making something, yeah."
+	},
+	{
+		"character": [
+			"bf",
+			5,
+			"r"
+		],
+		"text": "But man, I really don't think I'm gonna finish it."
+	},
+	{
+		"character": [
+			"pump",
+			6,
+			"l"
+		],
+		"text": "Eh? Why not? It had some real bangers in there!"
+	},
+	{
+		"character": [
+			"bf",
+			13,
+			"r"
+		],
+		"text": "I mean... I don't really see the point in finishing it, you know?"
+	},
+	{
+		"character": [
+			"bf-mad",
+			4,
+			"r"
+		],
+		"text": "Like bro, the entire reason I was making it was to prove how much I loved girlfriend, that I WOULDN'T just leave her in the dust like those other guys."
+	},
+	{
+		"character": [
+			"bf-sad",
+			7,
+			"r"
+		],
+		"text": "I was gonna propose to her with that shit."
+	},
+	{
+		"character": [
+			"bf-sad",
+			4,
+			"r"
+		],
+		"text": "But she's..."
+	},
+	{
+		"character": [
+			"bf-sad",
+			7,
+			"r"
+		],
+		"text": "...."
+	},
+	{
+		"character": [
+			"bf-mad",
+			4,
+			"r"
+		],
+		"text": "Well, I ain't gonna be proposing to her any time soon, that's for sure."
+	},
+	{
+		"character": [
+			"pump",
+			3,
+			"l"
+		],
+		"text": "Yeah, it's pretty hard to propose to a dead gir-"
+	},
+	{
+		"character": [
+			"pump",
+			1,
+			"l"
+		],
+		"text": "ACK!"
+	},
+	{
+		"character": [
+			"skid",
+			7,
+			"l"
+		],
+		"text": "Shut up, stupid!"
+	},
+	{
+		"character": [
+			"pump",
+			12,
+			"l"
+		],
+		"text": "But it's true!"
+	},
+	{
+		"character": [
+			"skid",
+			7,
+			"l"
+		],
+		"text": "That doesn't matter, puta. You absolute idiot, how could you not see that-"
+	},
+	{
+		"character": [
+			"pump",
+			12,
+			"l"
+		],
+		"text": "But he just said that!!!"
+	},
+	{
+		"character": [
+			"bf-sad",
+			1,
+			"r"
+		],
+		"text": "Guys, it's fine, I don't mind. Don't worry about me."
+	},
+	{
+		"character": [
+			"pump",
+			17,
+			"l"
+		],
+		"text": "(See, I told you-)"
+	},
+	{
+		"character": [
+			"skid",
+			7,
+			"l"
+		],
+		"text": "*Glares*",
+		"muteVoice":true
+	},
+	{
+		"character": [
+			"bf",
+			2,
+			"r"
+		],
+		"text": "All I'm saying is that there really isn't a reason for me to continue working on it."
+	},
+	{
+		"character": [
+			"bf",
+			7,
+			"r"
+		],
+		"text": "There's no use dwelling on the past."
+	},
+	{
+		"character": [
+			"skid",
+			8,
+			"l"
+		],
+		"text": "..."
+	},
+	{
+		"character": [
+			"bf-sad",
+			7,
+			"r"
+		],
+		"text": "Yeah..."
+	},
+	{
+		"character": [
+			"skid",
+			8,
+			"l"
+		],
+		"text": "..."
+	},
+	{
+		"character": [
+			"skid",
+			8,
+			"l"
+		],
+		"text": "... You know, you could still-"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "Hey! Can I record my song with you boyfriend?",
+		"hscript":"leftJump"
+	},
+	{
+		"character": [
+			"skid",
+			4,
+			"l"
+		],
+		"text": "I'm still eating pump!"
+	},
+	{
+		"character": [
+			"pump",
+			6,
+			"l"
+		],
+		"text": "But I really want to record it now..."
+	},
+	{
+		"character": [
+			"skid",
+			15,
+			"l"
+		],
+		"text": "Ok, fine, I can take a break and get the recording software set up."
+	},
+	{
+		"character": [
+			"skid",
+			8,
+			"l"
+		],
+		"text": "That sound ok, BF?"
+	},
+	{
+		"character": [
+			"bf",
+			13,
+			"r"
+		],
+		"text": "Sure, sure."
+	}
+]
