@@ -1,0 +1,220 @@
+[{
+	"playMusic":"LunchboxHospital"
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "Well, some good news, and some bad news."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "...Yeah?"
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": " The good news is, at least from what I can tell, the fuzziness you're describing isn't impairing your ability to function normally."
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "Of course, I can't be certain without more testing, but for the meantime, I'm going to say that you should be fine."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": " However..."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "...?"
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "It's still concerning that it's happening."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "Even if it seems like nothing now, it could turn out to be something much worse later down the line. I'm at a loss."
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "Your medications seem to be working fine, so it can't be because of that."
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "Plus, the head trauma you recieved from the accident was shown to have not left any lasting impact."
+},{
+	"character": [
+		"lemon",
+		3,
+		"l"
+	],
+	"text": "heh heh heh...."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "Is there anything that you're not telling me?"
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "What do you mean?"
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "Like, is there anything else that's been bothering you?"
+},{
+	"character": [
+		"lemon",
+		2,
+		"l"
+	],
+	"text": "Ohhh boy... You know he's going to find out about me, right?"
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "How could he not?"
+},{
+	"character": [
+		"bf-hospital",
+		1,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "...Nah, I can't think of anything."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "Sorry, I'm just as confused as you are."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "...Well alright then. I just have a few more things to go over before we discharge you, and you should be good to go."
+},{
+	"character": [
+		"lemon",
+		6,
+		"l"
+	],
+	"text": "Pff... Good to go my ass."
+},{
+	"character": [
+		"lemon",
+		5,
+		"l"
+	],
+	"text": "Hey kid, you there?"
+},{
+	"character": [
+		"lemon",
+		3,
+		"l"
+	],
+	"text": "You aren't leaving this place."
+},{
+	"character": [
+		"lemon",
+		5,
+		"l"
+	],
+	"text": "Once they find out about ME,"
+},{
+	"character": [
+		"lemon",
+		3,
+		"l"
+	],
+	"text": "You're trapped here."
+},{
+	"character": [
+		"lemon",
+		2,
+		"l"
+	],
+	"text": "But hey, good luck."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"senpai",
+		1,
+		"l"
+	],
+	"text": "Ok, first thing..."
+}]

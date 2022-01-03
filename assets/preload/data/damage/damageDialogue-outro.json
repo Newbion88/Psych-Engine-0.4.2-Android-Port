@@ -1,0 +1,463 @@
+[{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "aaaaand that should be everything!"
+},{
+	"character": [
+		"senpai",
+		1,
+		"l"
+	],
+	"text": "We just have some paperwork for you to sign, and then you can head out."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf-hospital",
+		5,
+		"r"
+	],
+	"text": "...eh?!"
+},{
+	"character": [
+		"bf-hospital",
+		6,
+		"r"
+	],
+	"text": "Wait, I can leave?!?"
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "Yes, you can leave."
+},{
+	"character": [
+		"senpai",
+		4,
+		"l"
+	],
+	"text": "That's literally why were doing all of this, remember?"
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "I just, really?"
+},{
+	"character": [
+		"bf-hospital",
+		6,
+		"r"
+	],
+	"text": "Are you SURE that there isn't anything else?"
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "Not that I know of!"
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "Unless.. there's something you forgot to mention?"
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "No, no, I didn't forget anything!"
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "It's just... damn. I've been in here for over a month. After everything that happened, I just-"
+},{
+	"character": [
+		"bf-hospital",
+		1,
+		"r"
+	],
+	"text": "Well, I just thought this would be the new normal."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "I can understand that. Many of my past patients who've had extended stays have had a hard time getting used to the idea of leaving."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "Being cooped up in a hospital room for so long can make you feel like you're never getting out of it."
+},{
+	"character": [
+		"senpai",
+		1,
+		"l"
+	],
+	"text": "It can be kind of surreal when the time comes for you to actually be discharged."
+},{
+	"character": [
+		"bf-hospital",
+		6,
+		"r"
+	],
+	"text": "No kidding."
+},{
+	"character": [
+		"senpai",
+		1,
+		"l"
+	],
+	"text": "Well anyways, I'll need you to fill out these discharge forms before you can go."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Alright, gimme a second."
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "And with that, you're good to go! If any of your injuries give you any trouble, take some pain killers. But use moderation, ok?"
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Got it, and thank you, Doctor... uh..."
+},{
+	"character": [
+		"senpai",
+		5,
+		"l"
+	],
+	"text": "Hart. Doctor Charles Hart."
+},{
+	"character": [
+		"bf-hospital",
+		6,
+		"r"
+	],
+	"text": "You're joking"
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "*sighs*"
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "No, I am not joking."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "And yes, I have heard all puns that you could possibly think of."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Well, Doctor, once again, thank you."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "I can tell that you put a lot of"
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "HART into your work."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf-hospital",
+		1,
+		"r"
+	],
+	"text": "...Sorry, that was bad."
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "*sighs*"
+},{
+	"character": [
+		"senpai",
+		2,
+		"l"
+	],
+	"text": "It's fine. I don't mind."
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "I'll  be heading out now. Get changed, and one of the nurses will see you out."
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "Lila said that she'd be letting you stay with her until you figure things out, so I'll let her know that you're ready."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Thanks again for everything, man."
+},{
+	"character": [
+		"senpai",
+		3,
+		"l"
+	],
+	"text": "No problem! Stay safe boyfriend!"
+},{
+	"character": [
+		"narrator",
+		null,
+		"l"
+	],
+	"text": "The door closes..."
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "...Really? Put a lot of HART into your work? Was that the best you could do?"
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"lemon",
+		2,
+		"l"
+	],
+	"text": "Helloooooo? Are you here??? Is there a person inside that meaty frame?"
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "Could you shut up, lemon man?"
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "What? You go allll day ignoring me asshole. The LEAST you could do is be polite."
+},{
+	"character": [
+		"lemon",
+		5,
+		"l"
+	],
+	"text": "And it's Lemon MONSTER, Boyfriend, not Lemon MAN."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "Listen, I don't have the time for this. You know the rules and so do I."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "You, lemon ass, don't bother me. I, Boyfriend, continue living my life."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "See? Simple!"
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "Meh."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "...I swear to god, how did I put up with this for so long-"
+},{
+	"character": [
+		"lemon",
+		2,
+		"l"
+	],
+	"text": "I mean, you usually just hang out with that lady friend of yours... man did she look tasty..."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "Yeah, I guess that is what I usually did, didn't I?"
+},{
+	"character": [
+		"lemon",
+		1,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf-hospital",
+		1,
+		"r"
+	],
+	"text": "..."
+},{
+	"character": [
+		"lemon",
+		6,
+		"l"
+	],
+	"text": "I miss her..."
+},{
+	"character": [
+		"bf-hospital",
+		1,
+		"r"
+	],
+	"text": "...Me too, Monster, me too."
+},{
+	"character": [
+		"lemon",
+		6,
+		"l"
+	],
+	"text": "..."
+},{
+	"character": [
+		"bf-hospital",
+		3,
+		"r"
+	],
+	"text": "Anyways, we should probably go now."
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "Damn, and I was starting to like our new home."
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "And I don't want to hear a peep out of you once we leave this room, ok?"
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "*groans*"
+},{
+	"character": [
+		"lemon",
+		4,
+		"l"
+	],
+	"text": "FINE, I'll be quiet! Are you happy, kid?"
+},{
+	"character": [
+		"bf-hospital",
+		2,
+		"r"
+	],
+	"text": "I'm overjoyed."
+}]
