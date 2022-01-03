@@ -1,0 +1,167 @@
+[
+	{
+		"playMusic": "spookz"
+	},
+	{
+		"character": [
+			"skid",
+			12,
+			"l"
+		],
+		"text": "Wow, you did pretty well for an old guy!"
+	},
+	{
+		"character": [
+			"bf",
+			2,
+			"r"
+		],
+		"text": "What is that supposed to mean?"
+	},
+	{
+		"character": [
+			"pump",
+			8,
+			"r"
+		],
+		"text": "lmao, it means that you're old!!!",
+		"hscript":"rightJump"
+	},
+	{
+		"character": [
+			"skid",
+			3,
+			"l"
+		],
+		"text": "Pump! You're here!",
+		"hscript":"leftJump"
+	},
+	{
+		"character": [
+			"skid",
+			10,
+			"l"
+		],
+		"text": "So, do you have everything set up Pump?"
+	},
+	{
+		"character": [
+			"pump",
+			16,
+			"r"
+		],
+		"text": "Yup! Everything is there are ready to go!"
+	},
+	{
+		"character": [
+			"bf",
+			4,
+			"r"
+		],
+		"text": "?"
+	},
+	{
+		"character": [
+			"bf",
+			5,
+			"r"
+		],
+		"text": "What are you talking about?"
+	},
+	{
+		"character": [
+			"skid",
+			3,
+			"l"
+		],
+		"text": "We have a surprise for you, Boyfriend!"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "Yeah! A surprise!"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "Here, put this on-"
+	},
+	{
+		"character": [
+			"bf",
+			8,
+			"r"
+		],
+		"text": "A blindfold??? Don't tell me you're going to 'kidnap' me again..."
+	},
+	{
+		"character": [
+			"skid",
+			12,
+			"l"
+		],
+		"text": "Kidnap you? NEVER! When have we EVER done that?"
+	},
+	{
+		"character": [
+			"pump",
+			19,
+			"l"
+		],
+		"text": "Well, there was that one time two years ag-"
+	},
+	{
+		"character": [
+			"pump",
+			1,
+			"l"
+		],
+		"text": "OW!"
+	},
+	{
+		"character": [
+			"skid",
+			18,
+			"l"
+		],
+		"text": "Anyways, we promise that we aren't going to kidnap you, ok?"
+	},
+	{
+		"character": [
+			"skid",
+			3,
+			"l"
+		],
+		"text": "So put it on!"
+	},
+	{
+		"character": [
+			"bf",
+			4,
+			"r"
+		],
+		"text": "Well, uh, ok then..."
+	},
+	{
+		"character": [
+			"nar",
+			null,
+			"l"
+		],
+		"text": "Boyfriend puts on the blindfold."
+	},
+	{
+		"character": [
+			"pump",
+			8,
+			"l"
+		],
+		"text": "Alright, let's go!"
+	}
+]

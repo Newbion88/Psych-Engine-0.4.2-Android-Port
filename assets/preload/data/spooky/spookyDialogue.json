@@ -1,0 +1,419 @@
+[
+	{
+		"setBG":"hospital",
+		"playMusic": "lila"
+	},
+	{
+		"text": "Hi boyfriend! How are ya?",
+		"translation": {
+			"PT-BR": "Oi Boyfriend! Como você está?",
+			"ES": "Hola boyfriend! Como te va?"
+		},
+		"character": [ "lila", 4, "left" ]
+	},
+	{
+		"text": "Oh, Lila!",
+		"translation": {
+			"PT-BR": "Ah, Lila!",
+			"ES": "ah, Lila!"
+		},
+		"character": [ "bf", 10, "right" ],
+		"textspeed": 0.011,
+		"hscript":"rightJump"
+	},
+	{
+		"text": "I'm doing a lot better, thanks.",
+		"translation": {
+			"PT-BR": "Eu tô me sentindo muito melhor, obrigado.",
+			"ES": "Me Esta Llendo Mucho Mejor, gracias."
+		},
+		"character": [ "bf", 9, "right" ]
+	},
+	{
+		"text": "That's good to hear.",
+		"translation": {
+			"PT-BR": "Que bom ouvir isso.",
+			"ES": "Excelente de esxuchar"
+		},
+		"character": [ "lila", 3, "left" ]
+	},
+	{
+		"text": "I was really starting to worry about you, BF.",
+		"translation": {
+			"PT-BR": "Eu tava começando a me preocupar com você, BF.",
+			"ES": "Enserio me estaba empezando a preocuparme de ti, BF."
+		},
+		"character": [ "lila", 10, "left" ]
+	},
+	{
+		"text": "I can only imagine...",
+		"translation": {
+			"PT-BR": "Eu só consigo imaginar...",
+			"ES": "Solo puedo imaginarme..."
+		},
+		"character": [ "lila", 10, "left" ]
+	},
+	{
+		"text": "No, I can't imagine what it must be like for you right now.",
+		"translation": {
+			"PT-BR": "Não, eu não consigo imaginar como você tudo deve estar pra você nesse momento.",
+			"ES": "No, Yo no puedo imaginar como Deberia ser para ti justo ahora."
+		},
+		"character": [ "lila", 11, "left" ]
+	},
+	{
+		"text": "Heh... believe me sis, it's not that great, that's for sure.",
+		"translation": {
+			"PT-BR": "Heh... acredita amiga, não tá muito bom, com certeza.",
+			"ES": "heh... creeme me, No es tan bien, eso es por seguro"
+		},
+		"character": [ "lemon", 6, "right" ]
+	},
+	{
+		"text": "..!",
+		"translation": {
+			"PT-BR": "...!",
+			"ES": "...!"
+		},
+		"textSpeed":0.021,
+		"character": [ "bf-mad", 4, "right" ]
+	},
+	{
+		"text": "Huh? Is something the matter?",
+		"translation": {
+			"PT-BR": "Huh? Tem algo te incomodando?",
+			"ES": "huh? hay algun problom"
+		},
+		"character": [ "lila", 7, "left" ]
+	},
+	{
+		"text": "...What?",
+		"translation": {
+			"PT-BR": "...O quê?",
+			"ES": "...Que?"
+		},
+		"character": [ "bf", 4, "right" ]
+	},
+	{
+		"text": "Ah, it's nothing. I just thought I saw a bug or something.",
+		"translation": {
+			"PT-BR": "Ah, não é nada! Eu só achei que tinha visto um inseto ou alguma coisa.",
+			"ES": "ah, es Nada yo pense que vi un bicho o algo haci"
+		},
+		"character": [ "bf", 13, "right" ]
+	},
+	{
+		"text": "Aw, bugs are sweet. They're just little things trying to survive.",
+		"translation": {
+			"PT-BR": "Aw, insetos são fofinhos. Eles só são coisinhas pequenas tentando sobreviver.",
+			"ES": "Aw, Los insectos son dulces. son solo pequeñas cosas intentando sobrevivir"
+		},
+		"character": [ "lila", 3, "left" ]
+	},
+	{
+		"text": "Sort of like all of us!",
+		"translation": {
+			"PT-BR": "Meio que igual a todos nós!",
+			"ES": "Como todos nosotros!"
+		},
+		"character": [ "lila", 8, "left" ]
+	},
+	{
+		"text": "I should really talk with Jones about that, though...",
+		"translation": {
+			"PT-BR": "Eu realmente deveria falar com o Jones sobre isso...",
+			"ES": "Deberia hablar con Jones Sobre eso..."
+		},
+		"character": [ "lila", 7, "left" ]
+	},
+	{
+		"text": "but enough about bugs",
+		"translation": {
+			"PT-BR": "Mas chega de falar sobre insetos.",
+			"ES": "Pero Yya sobre los insectos"
+		},
+		"character": [ "lila", 5, "left" ]
+	},
+	{
+		"text": "We should be able to go ahead and head out, Mayes said that she'd take over my shift this morning.",
+		"translation": {
+			"PT-BR": "Nós deveriamos ir logo. Mayes disse que ela iria ficar com meu turno essa manhã.",
+			"ES": "ya deberiamos ir saliendo. Mayes dijo que tomaria my turno esta mañana"
+		},
+		"character": [ "lila", 5, "left" ]
+	},
+	{
+		"text": "(Of course...)",
+		"translation": {
+			"PT-BR": "(Claro...)",
+			"ES": "(Claro...)"
+		},
+		"muteVoice":true,
+		"character": [ "lila", 2, "left" ]
+	},
+	{
+		"text": "(That means that I'll have to stay up all night to cover her nightshift tonight...)",
+		"translation": {
+			"PT-BR": "(Isso significa que eu vou ter que ficar de pé a noite inteira pra cobrir o turno dela de noite...)",
+			"ES": "(eso signifca que tendre que estar Toda la noche despierto para tomar su turno nocturno esta noche...)"
+		},
+		"muteVoice":true,
+		"character": [ "lila", 1, "left" ]
+	},
+	{
+		"text": "*sighs*",
+		"translation": {
+			"PT-BR": "*suspiro*",
+			"ES": "*suspiro*"
+		},
+		"muteVoice":true,
+		"character": [ "lila", 10, "left" ]
+	},
+	{
+		"text": "?",
+		"translation": {
+			"PT-BR": "?",
+			"ES": "?"
+		},
+		"character": [ "bf", 4, "right" ]
+	},
+	{
+		"text": "Oh, don't worry about it! Let's just get going.",
+		"translation": {
+			"PT-BR": "Ah, não se preocupa sobre isso!",
+			"ES": "Oh, No te preocupes! Solo continuemos."
+		},
+		"character": [ "lila", 4, "left" ]
+	},
+	{
+		"setBG":"parkinglot",
+		"text": "The car should be right over here..",
+		"translation": {
+			"PT-BR": "Só vamos indo logo.",
+			"ES": "El Carro deberia estar justo por aqui.."
+		},
+		"character": [ "lila", 5, "left" ]
+	},
+	{
+		"text": "A... car?",
+		"translation": {
+			"PT-BR": "Um... carro?",
+			"ES": "Un...Carro?"
+		},
+		"character": [ "bf-stressed", 4, "right" ]
+	},
+	{
+		"text": "...",
+		"translation": {
+			"PT-BR": "...",
+			"ES": "..."
+		},
+		"muteVoice":true,
+		"character": [ "bf-stressed", 4, "right" ]
+	},
+	{
+		"text": "...yeah, how else did you think we were going to get-",
+		"translation": {
+			"PT-BR": "Claro, como mas você acha que iriamos pra-",
+			"ES": "...Pues claro, Como se supone que llegarem-"
+		},
+		"character": [ "lila", 7, "left" ]
+	},
+	{
+		"text": "Oh HELL no, no way am I getting into that. Nope. Not doing it. No. I can't do this.",
+		"translation": {
+			"PT-BR": "Ah sai fora, de nenhum jeito vou entrar naquilo. Não. Eu não vou.",
+			"ES": "OH CLARO QUE NO, De ninguna Manera me montare en ello. Nope. No pasar. No. No puedo hacer Esto."
+		},
+		"character": [ "bf-stressed", 4, "right" ]
+	},
+	{
+		"text": "(I don't want to. What if...)",
+		"translation": {
+			"PT-BR": "Não. Eu não consigo fazer isso. Eu não quero. E se...",
+			"ES": "Yo No quiero. Pero que tal si..."
+		},
+		"muteVoice":true,
+		"character": [ "bf-stressed", 1, "right" ]
+	},
+	{
+		"text": "(I don't want her to end up dead like-)",
+		"translation": {
+			"PT-BR": "Eu não quero que ela acabe morta como- Eu... iria preferir se nós pudessemos andar.",
+			"ES": "No quiero que ellla termine muerta como- yo... Enserio prefiero Si pudieramos Caminar"				
+		},
+		"muteVoice":true,
+		"character" : ["bf-stressed", 1, "right"]
+	},
+	{
+		"text": "I'd... really prefer it if we could walk.",
+		"translation": {
+			"PT-BR": "Eu não quero que ela acabe morta como- Eu... iria preferir se nós pudessemos andar.",
+			"ES": "No quiero que ellla termine muerta como- yo... Enserio prefiero Si pudieramos Caminar"
+		},
+		"character": [ "bf", 13, "right" ],
+		"hscript":"rightJump"
+	},
+	{
+		"text": "Is that ok?",
+		"translation": {
+			"PT-BR": "Pode ser?",
+			"ES": "Eso Es Ok?"
+		},
+		"character": [ "bf", 13, "right" ]
+	},
+	{
+		"text": "Oh... Oh of course!",
+		"translation": {
+			"PT-BR": "Ah...Ah, claro!",
+			"ES": "Oh.... Oh, Claro!"
+		},
+		"character": [ "lila", 7, "left" ],
+		"hscript":"leftJump"
+	},
+	{
+		"text": "That's not a problem at all!",
+		"translation": {
+			"PT-BR": "Isso não é problema de jeito algum!",
+			"ES": "Eso No Es ni un solo Problema"
+		},
+		"character": [ "lila", 5, "left" ],
+		"hscript":"leftJump"
+	},
+	{
+		"setBG":"outside",
+		"stopMusic":true,
+		"text": "30 MINUTES LATER......",
+		"translation": {
+			"PT-BR": "uhhh spongebob im all outta time cards",
+			"ES": "*Epic Vine Boom Sound*"
+		},
+		"character": [ "nar", 1, "left" ]
+	},
+	{
+		"text": "I'm back!",
+		"translation": {
+			"PT-BR": "Eu voltei!",
+			"ES": "Ya Llege!"
+		},
+		"character": [ "lila", 4, "left" ]
+	},
+	{
+		"setBG":"inside",
+		"playMusic":"spookz",
+		"text": "Oh hey mom. You're back early- wait.",
+		"translation": {
+			"PT-BR": "Ah, oi mãe. Você voltou mais cedo- espera.",
+			"ES": "Oh Hola Mama. Tu regresastes temprano- Espera."
+		},
+		"character": [ "skid", 5, "left" ]
+	},
+	{
+		"text": "B-BOYFRIEND?!?!?",
+		"translation": {
+			"PT-BR": "B-BOYFRIEND?!?!?",
+			"ES": "B-BOYFRIEND?!?!?!"
+		},
+		"character": [ "skid", 12, "left" ],
+		"textSpeed":0.021,
+		"hscript":"leftJump"
+	},
+	{
+		"text": "Ay what's poppin' little guy?",
+		"translation": {
+			"PT-BR": "Ei, como que cê tá, carinha?",
+			"ES": "Ay Como Te va Pequeñin?"
+		},
+		"character": [ "bf", 11, "right" ]
+	},
+	{
+		"text": "Not much man! I didn't know you were getting discharged today!",
+		"translation": {
+			"PT-BR": "Nade demais cara! Eu não sabia que você ia receber alta hoje!",
+			"ES": "No Mucho Hombre! No sabia que te iban a traer hoy!"
+		},
+		"character": [ "skid", 3, "left" ]
+	},
+	{
+		"text": "Mom! You didn't tell me that he was coming TODAY!",
+		"translation": {
+			"PT-BR": "Mãe! Você não me disse que ele ia vim HOJE!",
+			"ES": "Mama! Tu no me dijistes que el Iba a Venir HOY"
+		},
+		"character": [ "skid", 15, "left" ]
+	},
+	{
+		"text": "I didn't??? I could have sworn that I did...",
+		"translation": {
+			"PT-BR": "Eu não falei??? Eu podia ter jurado que eu disse...",
+			"ES": "no te dije??? Juro que you te dije..."
+		},
+		"character": [ "lila", 7, "left" ]
+	},
+	{
+		"text": "Well, it's fine! I'll just have to text Pump to let him know to come over today.",
+		"translation": {
+			"PT-BR": "Bem, tá tudo certo! Eu só vou ter que falar pro Pump pra deixar ele saber que é pra ele vim aqui hoje. Hmm... o que deveriamos fazer enquanto esperamos...",
+			"ES": "Bueno, es ok tendre que enviarle un mensaje a Pump para que el sepa para que el Venga Hoy. Hmm... Que deberiamos Hacer mientras esperamos..."
+		},
+		"character": [ "skid", 3, "left" ]
+	},
+	{
+		"text": "Hmm... what should we do while we wait...",
+		"translation": {
+			"PT-BR": "Bem, tá tudo certo! Eu só vou ter que falar pro Pump pra deixar ele saber que é pra ele vim aqui hoje. Hmm... o que deveriamos fazer enquanto esperamos...",
+			"ES": "Bueno, es ok tendre que enviarle un mensaje a Pump para que el sepa para que el Venga Hoy. Hmm... Que deberiamos Hacer mientras esperamos..."
+		},
+		"character": [ "skid", 4, "left" ]
+	},
+	{
+		"text": "OH, I KNOW! Why don't I show you a song that I've been working on!",
+		"translation": {
+			"PT-BR": "AH, EU SEI! Por que não te mostro uma música em que eu estive trabalhando!",
+			"ES": "OH, YO SE! Que tal Si te Muestro Una cancion Que eh Estado trabajando en!"
+		},
+		"character": [ "skid", 12, "left" ]
+	},
+	{
+		"text": "Huh? Since when did you make music?",
+		"translation": {
+			"PT-BR": "Huh? Desde quando você faz música?",
+			"ES": "Huh? Desde cuando Haces cancion?"
+		},
+		"character": [ "bf", 5, "right" ]
+	},
+	{
+		"text": "A few months now, actually!",
+		"translation": {
+			"PT-BR": "Faz alguns meses, na real!",
+			"ES": "Desde hace Unos Meses!"
+		},
+		"character": [ "skid", 3, "left" ]
+	},
+	{
+		"text": "That's so cool man! I'd love to hear it!",
+		"translation": {
+			"PT-BR": "Isso é mó legal cara! Eu iria amar ouvir seu trabalho! A gente pode tipo, uh, cantar juntos ou coisa do tipo...",
+			"ES": "Eso Es muy cool pana! Me encantaria escucharlo! Podriamos, uh, Cantar Juntos..."
+		},
+		"character": [ "bf", 10, "right" ]
+	},
+	{
+		"text": "We can like, uh, sing together or something...",
+		"translation": {
+			"PT-BR": "Isso é mó legal cara! Eu iria amar ouvir seu trabalho! A gente pode tipo, uh, cantar juntos ou coisa do tipo...",
+			"ES": "Eso Es muy cool pana! Me encantaria escucharlo! Podriamos, uh, Cantar Juntos..."
+		},
+		"character": [ "skid", 3, "left" ]
+	},
+	{
+		"stopMusic":true,
+		"hscript":"rightJump",
+		"text": "Sure dude, that sounds awesome!",
+		"translation": {
+			"PT-BR": "Claro cara, isso soa irado!",
+			"ES": "Claro viejo, eso suena cool"
+		},
+		"character": [ "bf", 10, "right" ]
+	}
+]
