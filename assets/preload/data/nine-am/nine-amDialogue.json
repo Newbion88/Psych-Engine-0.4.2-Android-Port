@@ -1,0 +1,270 @@
+[
+	{
+		"playMusic":"spookz"
+	},
+	{
+		"text":"You have everything packed?",
+		"translation":{
+			"PT-BR":"Tienes todo empacado?",
+			"ES":"Gay Butt Stuff Rules"
+		},
+		"character":["lila", 3, "left"]
+	},
+	{
+		"text":"Yeah Lila, I do.",
+		"translation":{
+			"PT-BR":"Sí Lila, lo tengo.",
+			"ES":"ah, Lila!"
+		},
+		"character":["bf", 10, "right"],
+		"textspeed":0.011
+	},
+	{
+		"text":"You sure? Toothpaste? Toothbrush?",
+		"translation":{
+			"PT-BR":"¿Estás seguro? ¿Pasta dental? ¿Cepillo de dientes?",
+			"ES":"Me Esta Llendo Mucho Mejor, gracias."
+		},
+		"character":["lila", 7, "left"]
+	},
+	{
+		"text":"Mom, you don't have to treat him like a kid! He's 23!",
+		"translation":{
+			"PT-BR":"¡Mamá, no tienes que tratarlo como a un niño! ¡Tiene 23 años!",
+			"ES":"Excelente de esxuchar"
+		},
+		"character":["skid", 15, "left"]
+	},
+	{
+		"text":"Ha ha, I just wanted to make sure he doesn't forget anything",
+		"translation":{
+			"PT-BR":"Ja, ja, solo quería asegurarme de que no se olvide de nada.",
+			"ES":"Enserio me estaba empezando a preocuparme de ti, BF."
+		},
+		"character":["lila", 4, "left"]
+	},
+	{
+		"text":"Pico probably wouldn't want to take two trips.",
+		"translation":{
+			"PT-BR":"Pico probablemente no querría hacer dos viajes.",
+			"ES":"Solo puedo imaginarme..."
+		},
+		"character":["lila", 8, "left"]
+	},
+	{
+		"text":"Yeah, you KNOW how he gets about that stuff.",
+		"translation":{
+			"PT-BR":"Sí, SABES cómo se las arregla con esas cosas.",
+			"ES":"No, Yo no puedo imaginar como Deberia ser para ti justo ahora."
+		},
+		"character":["skid", 8, "left"]
+	},
+	{
+		"text":"(Pico... I haven't seen him in what, a year? Two years?)",
+		"translation":{
+			"PT-BR":"(Pico ..., No lo he visto en cuánto, ¿un año? ¿Dos años?)",
+			"ES":"heh... creeme me, No es tan bien, eso es por seguro"
+		},
+		"character":["bf", 2, "right"]
+	},
+	{
+		"text":"(I don't know why he offered to take me in, but I'm damn grateful for it. Especially after all of the shit I've put him through.)",
+		"translation":{
+			"PT-BR":"(No sé por qué se ofreció a acogerme, pero estoy muy agradecido por ello, Especialmente después de toda la mierda que le he hecho pasar).",
+			"ES":"...!"
+		},
+		"character":["bf", 2, "right"]
+	},
+		{
+		"text":"(...I shouldn't dwell on that too much. That's the past, and this is now.)",
+		"translation":{
+			"PT-BR":"(... No debería insistir demasiado en eso. Eso es el pasado y esto es ahora).",
+			"ES":"huh? hay algun problom"
+		},
+		"character":["bf", 12, "right"]
+	},
+		{
+		"text":"Hey mom, Pump wants to know if he can come over for breakfast. Is that ok?",
+		"translation":{
+			"PT-BR":"Hola mamá, Pump quiere saber si puede venir a desayunar. ¿Eso esta bien?",
+			"ES":"...Que?"
+		},
+		"character":["skid", 3, "left"]
+	},
+		{
+		"text":"Sure sweetie, that's fine!",
+		"translation":{
+			"PT-BR":"Claro cariño, ¡está bien!",
+			"ES":"ah, es Nada yo pense que vi un bicho o algo haci"
+		},
+		"character":["lila", 3, "left"]
+	},
+		{
+		"text":"(But what I did was really awful. Now that I know what it's like, I... Why is he wanting anything to do with me?)",
+		"translation":{
+			"PT-BR":"(Pero lo que hice fue realmente horrible. Ahora que sé cómo es, yo ... ¿Por qué quiere tener algo que ver conmigo?)",
+			"ES":"Aw, Los insectos son dulces. son solo pequeñas cosas intentando sobrevivir"
+		},
+		"character":["bf", 12, "right"]
+	},
+		{
+		"text":"(I really don't understand him at all.)",
+		"translation":{
+			"PT-BR":"(Realmente no lo entiendo en absoluto).",
+			"ES":"Como todos nosotros!"
+		},
+		"character":["bf", 2, "right"]
+	},
+		{
+		"text":"Time passes, and Lila prepares breakfast for everyone",
+		"translation":{
+			"PT-BR":"El tiempo pasa y Lila prepara el desayuno para todos",
+			"ES":"Deberia hablar con Jones Sobre eso..."
+		},
+		"character":["nar", 12, "left"]
+	},
+		{
+		"text":"Bacon. Eggs. Pancakes. The works.",
+		"translation":{
+			"PT-BR":"Tocino. Huevos. Panqueques.",
+			"ES":"Pero Yya sobre los insectos"
+		},
+		"character":["nar", 12, "left"]
+	},
+		{
+		"text":"Soon enough, the smell of mornings and new beginnings fills the air",
+		"translation":{
+			"PT-BR":"Muy pronto, el olor de las mañanas y los nuevos comienzos llena el aire.",
+			"ES":"ya deberiamos ir saliendo. Mayes dijo que tomaria my turno esta mañana"
+		},
+		"character":["nar", 12, "left"]
+	},
+		{
+		"text":"Wow Lila, you really didn't have to do this on your day off.",
+		"translation":{
+			"PT-BR":"Vaya, Lila, realmente no tenías que hacer esto en tu día libre.",
+			"ES":"(Claro...)"
+		},
+		"character":["bf", 9, "right"]
+	},
+		{
+		"text":"It's fine! Don't worry about it",
+		"translation":{
+			"PT-BR":"¡Está bien! No te preocupes por eso",
+			"ES":"(eso signifca que tendre que estar Toda la noche despierto para tomar su turno nocturno esta noche...)"
+		},
+		"character":["lila", 9, "left"]
+	},
+		{
+		"text":"Wow, it smells great!",
+		"translation":{
+			"PT-BR":"¡Vaya, huele genial!",
+			"ES":"*suspiro*"
+		},
+		"character":["pump", 8, "left"]
+	},
+		{
+		"text":"Oh hey there Pump! How are you doing?",
+		"translation":{
+			"PT-BR":"¡Oh, Hola Pump! ¿Cómo estás?",
+			"ES":"?"
+		},
+		"character":["bf", 10, "right"]
+	},
+		{
+		"text":"Awesome, thanks!",
+		"translation":{
+			"PT-BR":"¡Genial gracias!",
+			"ES":"Oh, No te preocupes! Solo continuemos."
+		},
+		"character":["pump", 9, "left"]
+	},
+		{
+		"text":"Hey pump, you got our song downloaded on your phone?",
+		"translation":{
+			"PT-BR":"Oye, Pump, ¿descargaste nuestra canción en tu teléfono?",
+			"ES":"El Carro deberia estar justo por aqui.."
+		},
+		"character":["skid", 16, "left"]
+	},
+		{
+		"text":"Yup!",
+		"translation":{
+			"PT-BR":"¡Sí!",
+			"ES":"Un...Carro?"
+		},
+		"character":["pump", 11, "left"]
+	},
+	{
+		"text":"What song?",
+		"translation":{
+			"PT-BR":"¿Que canción?",
+			"ES":"..."
+		},
+		"character":["bf", 5, "right"]
+	},
+	{
+		"text":"Well, uh-",
+		"translation":{
+			"PT-BR":"Bueno, eh-",
+			"ES":"...Pues claro, Como se supone que llegarem-"
+		},
+		"character":["skid", 17, "left"]
+	},
+	{
+		"text":"We wrote a song for you man!",
+		"translation":{
+			"PT-BR":"¡Escribimos una canción para ti, hombre!",
+			"ES":"OH CLARO QUE NO, De ninguna Manera me montare en ello. Nope. No pasar. No. No puedo hacer Esto."
+		},
+		"character":["pump", 11, "left"]
+	},
+    	{
+		"text":"Really?",
+		"translation":{
+			"PT-BR":"¿En serio?",
+			"ES":"Yo No quiero. Pero que tal si..."
+		},
+		"character":["bf", 8, "right"]
+	},
+	{
+		"text":"Uhhhh yeah! Ahahahaha...",
+		"translation":{
+			"PT-BR":"¡Uhhhh, sí! Ahahahaha ...",
+			"ES":"No quiero que ellla termine muerta como- yo... Enserio prefiero Si pudieramos Caminar"
+		},
+		"character":["skid", 3, "left"]
+	},
+	{
+		"text":"Skid spent all month working on it making it perfect for you!",
+		"translation":{
+			"PT-BR":"Skid pasó todo el mes trabajando en él, ¡haciéndolo perfecto para ti!",
+			"ES":"Eso Es Ok?"
+		},
+		"character":["pump", 19, "left"]
+	},
+	{
+		"text":"SHUT UP PUMP!!!",
+		"translation":{
+			"PT-BR":"¡¡¡CALLATE PUMP!!!",
+			"ES":"Oh.... Oh, Claro!"
+		},
+		"character":["skid", 7, "right"]
+	},
+	{
+		"text":"Do you want to take a listen, BF?",
+		"translation":{
+			"PT-BR":"¿Quieres escuchar, BF?",
+			"ES":"Eso No Es ni un solo Problema"
+		},
+		"character":["pump", 15, "left"]
+	},
+	{
+		"text":"Pff... I'd love to guys.",
+		"translation":{
+			"PT-BR":"Pff ... me encantaría chicos.",
+			"ES":"*Epic Vine Boom Sound*"
+		},
+		"character":["bf", 11, "right"]
+	}
+]

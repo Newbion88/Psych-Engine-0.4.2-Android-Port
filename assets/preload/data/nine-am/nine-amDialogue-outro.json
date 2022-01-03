@@ -1,0 +1,53 @@
+[
+	{
+		"playMusic":"spookz"
+	},
+	{
+		"character": [
+			"bf",
+			9,
+			"r"
+		],
+		"text": "That was really well done, you two."
+	},
+	{
+		"character": [
+			"pump",
+			4,
+			"l"
+		],
+		"text": "Aw shucks, thanks homie-"
+	},
+	{
+		"character": [
+			"lila",
+			2,
+			"l"
+		],
+		"text": "Boyfriend, I think Pico's here to pick you up!"
+	},
+	{
+		"character": [
+			"bf",
+			8,
+			"r"
+		],
+		"text": "Oh crap! I'll see you guys later, ok?"
+	},
+	{
+		"character": [
+			"skid",
+			3,
+			"l"
+		],
+		"text": "Ok Boyfriend!"
+	},
+	{
+		"character": [
+			"pump",
+			11,
+			"l"
+		],
+		"text": "See ya later man!"
+	}
+]
