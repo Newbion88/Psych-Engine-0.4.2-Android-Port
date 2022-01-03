@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		["Pulse", "beepy", [215, 0, 168]]
 	],
 
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "null",
 
-	"storyName": "",
+	"storyName": "ROBO-HEARTBEATS",
 	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
+	"weekName": "Phase 0",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,

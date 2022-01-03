@@ -1,16 +1,17 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["Spooky", "skid", [180, 180, 180]],
+		["Memorieez", "skid", [180, 180, 180]],
+		["Soul", "pump", [213, 126, 0]],
+		["Nine-Am", "spooky", [213, 126, 0]]
 	],
 
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "halloween",
+	"weekBackground": "null",
 
 	"storyName": "Spooky Month",
 	"weekBefore": "week1",

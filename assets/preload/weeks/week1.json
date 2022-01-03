@@ -1,20 +1,20 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["Doctor", "senpai", [206, 62, 59]],
+		["Medicine", "senpai", [206, 62, 59]],
+		["Damage", "senpai", [206, 62, 59]]
 	],
 
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "null",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "LOVELY MEDICINE",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
+	"weekName": "Phase 1",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
