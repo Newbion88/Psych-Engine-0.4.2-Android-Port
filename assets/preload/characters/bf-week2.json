@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "idle/BF_idle_dance0001.png",
+	"frame": {"x":4385,"y":809,"w":824,"h":858},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":824,"h":858},
+	"sourceSize": {"w":824,"h":858}
+},
+{
+	"filename": "idle/BF_idle_dance0002.png",
+	"frame": {"x":5209,"y":809,"w":824,"h":858},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":824,"h":858},
+	"sourceSize": {"w":824,"h":858}
+},
+{
+	"filename": "idle/BF_idle_dance0003.png",
+	"frame": {"x":6033,"y":809,"w":824,"h":858},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":824,"h":858},
+	"sourceSize": {"w":824,"h":858}
+},
+{
+	"filename": "idle/BF_idle_dance0004.png",
+	"frame": {"x":6857,"y":809,"w":824,"h":858},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":824,"h":858},
+	"sourceSize": {"w":824,"h":858}
+},
+{
+	"filename": "singDOWN/w2down1.png",
+	"frame": {"x":0,"y":0,"w":780,"h":734},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":780,"h":734},
+	"sourceSize": {"w":780,"h":734}
+},
+{
+	"filename": "singDOWN/w2down2.png",
+	"frame": {"x":1560,"y":0,"w":778,"h":742},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":778,"h":742},
+	"sourceSize": {"w":778,"h":742}
+},
+{
+	"filename": "singDOWNmiss/w2downm1.png",
+	"frame": {"x":2338,"y":0,"w":778,"h":742},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":778,"h":742},
+	"sourceSize": {"w":778,"h":742}
+},
+{
+	"filename": "singDOWNmiss/w2downm2.png",
+	"frame": {"x":780,"y":0,"w":780,"h":734},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":780,"h":734},
+	"sourceSize": {"w":780,"h":734}
+},
+{
+	"filename": "singLEFT/w2left1.png",
+	"frame": {"x":5886,"y":0,"w":721,"h":809},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":721,"h":809},
+	"sourceSize": {"w":721,"h":809}
+},
+{
+	"filename": "singLEFT/w2left2.png",
+	"frame": {"x":6607,"y":0,"w":712,"h":809},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":712,"h":809},
+	"sourceSize": {"w":712,"h":809}
+},
+{
+	"filename": "singLEFTmiss/w2leftm1.png",
+	"frame": {"x":0,"y":809,"w":712,"h":809},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":712,"h":809},
+	"sourceSize": {"w":712,"h":809}
+},
+{
+	"filename": "singLEFTmiss/w2leftm2.png",
+	"frame": {"x":712,"y":809,"w":721,"h":809},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":721,"h":809},
+	"sourceSize": {"w":721,"h":809}
+},
+{
+	"filename": "singRIGHT/w2right1.png",
+	"frame": {"x":4502,"y":0,"w":692,"h":807},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":807},
+	"sourceSize": {"w":692,"h":807}
+},
+{
+	"filename": "singRIGHT/w2right2.png",
+	"frame": {"x":3116,"y":0,"w":693,"h":804},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":693,"h":804},
+	"sourceSize": {"w":693,"h":804}
+},
+{
+	"filename": "singRIGHTmiss/w2rightm1.png",
+	"frame": {"x":3809,"y":0,"w":693,"h":804},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":693,"h":804},
+	"sourceSize": {"w":693,"h":804}
+},
+{
+	"filename": "singRIGHTmiss/w2rightm2.png",
+	"frame": {"x":5194,"y":0,"w":692,"h":807},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":807},
+	"sourceSize": {"w":692,"h":807}
+},
+{
+	"filename": "singUP/w2up1.png",
+	"frame": {"x":2909,"y":809,"w":738,"h":852},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":852},
+	"sourceSize": {"w":738,"h":852}
+},
+{
+	"filename": "singUP/w2up2.png",
+	"frame": {"x":1433,"y":809,"w":738,"h":844},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":844},
+	"sourceSize": {"w":738,"h":844}
+},
+{
+	"filename": "singUPmiss/w2upm1.png",
+	"frame": {"x":2171,"y":809,"w":738,"h":844},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":844},
+	"sourceSize": {"w":738,"h":844}
+},
+{
+	"filename": "singUPmiss/w2uptm2.png",
+	"frame": {"x":3647,"y":809,"w":738,"h":852},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":738,"h":852},
+	"sourceSize": {"w":738,"h":852}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bf-week2.png",
+	"format": "RGBA8888",
+	"size": {"w":7681,"h":1667},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:70f3a3a0260ac13e099ca7aae7c61bdd:bb0e0192ef6aecf7a3ea86bef879cd7a:16bd612df06eaa169d3662fd07ced39d$"
+}
+}
