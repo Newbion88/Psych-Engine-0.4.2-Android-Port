@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skid static memories.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skid DOWN NOTE0000" x="0" y="0" width="409" height="410" pivotX="156" pivotY="147"/>
+	<SubTexture name="skid DOWN NOTE0001" x="0" y="0" width="409" height="410"/>
+	<SubTexture name="skid DOWN NOTE0002" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0003" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0004" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0005" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0006" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0007" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0008" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0009" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0010" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0011" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0012" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0013" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0014" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0015" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0016" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0017" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0018" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0019" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0020" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0021" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0022" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0023" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid DOWN NOTE0024" x="409" y="0" width="408" height="404" frameX="-1" frameY="-6" frameWidth="409" frameHeight="410"/>
+	<SubTexture name="skid IDLE0000" x="817" y="0" width="371" height="422" pivotX="100" pivotY="161" frameX="-4" frameY="-7" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0001" x="817" y="0" width="371" height="422" frameX="-4" frameY="-7" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0002" x="1188" y="0" width="376" height="427" frameX="0" frameY="0" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0003" x="1188" y="0" width="376" height="427" frameX="0" frameY="0" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0004" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0005" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0006" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0007" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0008" x="0" y="427" width="371" height="422" frameX="-30" frameY="-6" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0009" x="0" y="427" width="371" height="422" frameX="-30" frameY="-6" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0010" x="371" y="427" width="383" height="423" frameX="-23" frameY="-7" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0011" x="371" y="427" width="383" height="423" frameX="-23" frameY="-7" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0012" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0013" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0014" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid IDLE0015" x="1564" y="0" width="342" height="404" frameX="-17" frameY="-17" frameWidth="406" frameHeight="430"/>
+	<SubTexture name="skid LEFT NOTE0000" x="754" y="427" width="424" height="459" pivotX="-142" pivotY="-67" frameX="-1" frameY="0" frameWidth="426" frameHeight="459"/>
+	<SubTexture name="skid LEFT NOTE0001" x="754" y="427" width="424" height="459" frameX="-1" frameY="0" frameWidth="426" frameHeight="459"/>
+	<SubTexture name="skid LEFT NOTE0002" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0003" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0004" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0005" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0006" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0007" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0008" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0009" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0010" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0011" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0012" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0013" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid LEFT NOTE0014" x="1178" y="427" width="426" height="459"/>
+	<SubTexture name="skid RIGHT NOTE0000" x="1604" y="427" width="424" height="459" pivotX="-37" pivotY="-73" frameX="0" frameY="-1" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0001" x="1604" y="427" width="424" height="459" frameX="0" frameY="-1" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0002" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0003" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0004" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0005" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0006" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0007" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0008" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0009" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0010" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0011" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0012" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0013" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0014" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0015" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0016" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0017" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0018" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0019" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0020" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0021" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0022" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0023" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid RIGHT NOTE0024" x="0" y="886" width="426" height="459" frameX="0" frameY="0" frameWidth="426" frameHeight="460"/>
+	<SubTexture name="skid UP NOTE0000" x="426" y="886" width="432" height="507" pivotX="-22" pivotY="-76" frameX="-2" frameY="-13" frameWidth="434" frameHeight="520"/>
+	<SubTexture name="skid UP NOTE0001" x="426" y="886" width="432" height="507" frameX="-2" frameY="-13" frameWidth="434" frameHeight="520"/>
+	<SubTexture name="skid UP NOTE0002" x="858" y="886" width="432" height="520" frameX="0" frameY="0" frameWidth="434" frameHeight="520"/>
+	<SubTexture name="skid UP NOTE0003" x="858" y="886" width="432" height="520" frameX="0" frameY="0" frameWidth="434" frameHeight="520"/>
+	<SubTexture name="skid UP NOTE0004" x="858" y="886" width="432" height="520" frameX="0" frameY="0" frameWidth="434" frameHeight="520"/>
+</TextureAtlas>
