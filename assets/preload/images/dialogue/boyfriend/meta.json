@@ -1,0 +1,9 @@
+{
+	"name":"Boyfriend",
+	"refer":"bf",
+	"color":"#31B0D1",
+	"gridXY":[607, 533],
+	"scale":[0.78, 0.78],
+	"offset":[57, 39],
+	"disableFlipOnRight":true
+}
