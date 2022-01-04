@@ -1,0 +1,9 @@
+{
+	"name":"Boyfriend",
+	"refer":"bf-hospital",
+	"color":"#31B0D1",
+	"gridXY":[500, 466],
+	"offset":[0 , 45],
+	"scale":[1.06, 1.06],
+	"disableFlipOnRight":true
+}
