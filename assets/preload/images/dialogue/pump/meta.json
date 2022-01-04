@@ -1,0 +1,8 @@
+{
+	"name":"Pump",
+	"refer":"pump",
+	"color":"#FF6A00",
+	"gridXY":[603, 535],
+	"offset":[0, 41],
+	"scale":[0.78, 0.78]
+}
