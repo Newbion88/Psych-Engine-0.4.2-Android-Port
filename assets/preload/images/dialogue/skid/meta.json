@@ -1,0 +1,8 @@
+{
+	"name":"Skid",
+	"refer":"skid",
+	"color":"#FFFFFF",
+	"gridXY":[603, 535],
+	"offset":[0, 41],
+	"scale":[0.78, 0.78]
+}
